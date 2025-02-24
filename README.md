@@ -25,8 +25,8 @@
 ---
 
 # Notable Projects  
-- 🚀 [Email Spam Detection Using ML](#) – Designed and deployed an AI-driven spam classifier with a Gradio web interface, hosted on Hugging Face.  
-- 🌍 [SDGs in the Classroom – NASA Space Apps Challenge 2024](#) – Developed an innovative educational platform integrating Sustainable Development Goals (SDGs) with space data.  
+- 🚀 [Email Spam Detection Using ML](https://github.com/nikhildatascience/email-spam-detection) – Designed and deployed an AI-driven spam classifier with a Gradio web interface, hosted on Hugging Face.  
+- 🌍 [SDGs in the Classroom – NASA Space Apps Challenge 2024](https://github.com/nikhildatascience/sdgs-classroom) – Developed an innovative educational platform integrating Sustainable Development Goals (SDGs) with space data.  
 
 ---
 
@@ -38,16 +38,19 @@
 ---
 
 # 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikhildatascience&theme=radical)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhildatascience&theme=radical)](https://git.io/streak-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildatascience&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
 # Let's Connect  
 🔗 [GitHub](https://github.com/nikhildatascience)  
-🔗 [LinkedIn](https://github.com/nikhildatascience)  
+🔗 [LinkedIn](#)  
+🔗 [Portfolio](#)  
 
 I'm always open to collaborating on cutting-edge AI & Data Science projects. Let's innovate together! 🚀
+
+
 
 
 
