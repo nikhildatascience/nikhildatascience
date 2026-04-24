@@ -51,7 +51,7 @@ Microsoft Azure, Snowflake
 - Developed a spam classification system using **Naive Bayes with TF-IDF** on 95,000+ emails  
 - Attained **99.52% accuracy** and **99.50% F1-score**  
 - Built a lightweight interface for real-time detection with feedback-based model improvement  
-
+Live demo : https://huggingface.co/spaces/ABHI010/NIKHIL14
 ---
 
 # Certifications  
