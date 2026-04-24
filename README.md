@@ -1,55 +1,73 @@
 # Hi, I'm Nikhil N C! 👋
 
-🚀 Aspiring ML Developer | AI & Data Science Enthusiast  
-🎓 4th-year AI & Data Science Engineering Student  
-👨‍💻 Machine Learning | Data Analytics | Model Deployment | Data Visualization  
+🚀 AI and Process Automation Enthusiast  
+🎓 Final-year Engineering Student in Artificial Intelligence and Data Science  
+👨‍💻 AI Automation | Machine Learning | Data Analytics | API Integration  
 
 ---
 
 # About Me  
-- Passionate about leveraging AI and data-driven insights to solve real-world problems.  
-- Strong foundation in Machine Learning, Data Preprocessing, Feature Engineering, and Model Evaluation.  
-- Experienced in developing and deploying ML-powered web applications on platforms like Hugging Face.  
-- Scrum Master in a Snowflake Data Analytics Internship, driving agile methodologies and data workflows.  
-- Skilled in collecting, preprocessing, and analyzing large datasets to extract meaningful insights.  
+- Passionate about building AI-driven automation systems to solve real-world problems.  
+- Currently working as an **AI and Process Automation Associate Intern**, developing production-level automation workflows.  
+- Experienced in integrating AI APIs (LLMs) with backend systems for real-time data processing and intelligent output generation.  
+- Strong foundation in Machine Learning, Data Processing, and scalable AI system design.  
+- Interested in automation, applied AI, and building end-to-end intelligent systems.  
 
 ---
 
 # Technical Skills  
-- Programming Languages: Python, SQL, NoSQL, C, Java  
-- AI & ML: Machine Learning, Deep Learning (CNNs), NLP (Basic), Generative AI  
-- Data Science Tools: Pandas, NumPy, Scikit-learn  
-- Data Visualization: Tableau, Power BI, Matplotlib  
-- Developer Tools: VS Code, GitHub, Jupyter Notebook, Google Colab  
-- Cloud & Data Platforms: AWS, Snowflake, GCP  
+
+### Programming  
+Python, C, SQL  
+
+### AI and Machine Learning  
+Machine Learning, Feature Engineering, Model Evaluation, LLM Applications  
+
+### Data Analysis  
+Pandas, NumPy, Data Cleaning, Statistical Analysis  
+
+### Visualization  
+Power BI, Tableau, Matplotlib  
+
+### AI and Automation  
+Process Automation, Workflow Design, API Integration, REST APIs, JSON Handling, Make.com  
+
+### Cloud and Platforms  
+Microsoft Azure, Snowflake  
 
 ---
 
-# Notable Projects  
-- 🚀 [Email Spam Detection Using ML](https://huggingface.co/spaces/ABHI010/NIKHIL14) – Developed and deployed an ML-based email spam classifier using 5,000 Kaggle and 90,000 synthetic emails, achieving 99.52% accuracy, 100% precision, and 99.01% recall. Deployed a Gradio web app for real-time detection with interactive retraining, improving model accuracy by 5% and reducing false positives by 30%.  
-- 🌍 [Image Recognition with CNN](https://github.com/nikhildatascience/cnn-image-classification-tensorflow) – Built a CNN model using TensorFlow/Keras to classify 10,000 clothing images into 10 categories, achieving 89% test accuracy (to be updated to 92% upon completion). Applied preprocessing, normalization, and regularization techniques to reduce overfitting.  
-- 🌐 [SDGs in the Classroom – NASA Space Apps Challenge 2024](https://sdginclass.godaddysites.com/) – Developed an innovative educational platform integrating Sustainable Development Goals (SDGs) with space data.  
+# Projects  
+
+## 🧠 AI Medical Diagnostic Assistant (Multimodal AI)
+- Developed a **web-based AI diagnostic assistant** integrating medical images and patient metadata  
+- Leveraged **LLM-based reasoning (Google Gemini API)** for generating structured diagnostic insights  
+- Designed explainable outputs including diagnosis, confidence score, and key findings  
+- Achieved up to **~90% alignment** with reference outputs on high-quality inputs  
+
+---
+
+## 📧 Email Spam Detection using Machine Learning
+- Developed a spam classification system using **Naive Bayes with TF-IDF** on 95,000+ emails  
+- Attained **99.52% accuracy** and **99.50% F1-score**  
+- Built a lightweight interface for real-time detection with feedback-based model improvement  
 
 ---
 
 # Certifications  
-- 📖 **Foundations: Data, Data, Everywhere** – Google, May 2025  
-- 📖 **Power BI Data Analyst Associate Prep** – SkillUp, Jun 2025  
-- 📖 **Python for Data Science** – NPTEL, Oct 2024  
-- 📖 **Fundamentals of Machine Learning & AI** – AWS, May 2025  
-- 📖 **Developing Machine Learning Solutions** – AWS, May 2025  
-- 📖 **Neo4j Fundamentals & Introduction to Graph Data Science** – Neo4j GraphAcademy, Jun-Aug 2025  
+- SnowPro Core Certification – Snowflake  
+- Power BI Data Analyst Learning Path – Microsoft  
+- Python for Data Science – NPTEL (Top 5%, Silver Badge)  
+- Developing Machine Learning Solutions – AWS  
+- Fundamentals of Machine Learning and AI – AWS  
 
 ---
 
-# 📊 GitHub Stats  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhildatascience&theme=radical)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhildatascience&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-# Let's Connect  
+# 📫 Connect With Me  
 🔗 [GitHub](https://github.com/nikhildatascience)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nikhil-nc/)  
+
+
+---
 
 I'm always open to collaborating on cutting-edge AI & Data Science projects. Let's innovate together! 🚀
